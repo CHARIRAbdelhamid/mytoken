@@ -3,9 +3,5 @@ node_modules/
 cache/
 artifacts/
 .env
-=======
-node_modules/
-cache/
-artifacts/
-.env
+
 >>>>>>> d3316d46eacabae28b114635e576391844e17552
