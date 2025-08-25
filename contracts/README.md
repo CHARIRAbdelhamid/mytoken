@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+
+
+
 |--_> PrideToken (PRD)
 
 My first ERC20 token, built from scratch in Solidity.
